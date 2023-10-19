@@ -9,7 +9,7 @@ public class Snack5 {
     *if / switch
     *Es. “25" come stringa deve essere convertito in intero 25.*/
     public static void main(String[] args) {
-        String numeroStringa = "120"; // La stringa da convertire
+        String numeroStringa = "1206"; // La stringa da convertire
         int numeroIntero = 0;
         boolean Negativo = false;
 
